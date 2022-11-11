@@ -1,5 +1,4 @@
-﻿using System;
-namespace evalbdd.Settings
+﻿namespace evalbdd.Settings
 {
 	public enum BrowserType
 	{

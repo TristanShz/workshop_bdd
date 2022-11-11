@@ -2,7 +2,6 @@
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using OpenQA.Selenium;
 using System.Collections.ObjectModel;
-using evalbdd;
 using evalbdd.ComponentHelper;
 
 namespace evalbdd.Tests.FindElementTest

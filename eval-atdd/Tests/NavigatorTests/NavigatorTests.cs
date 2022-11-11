@@ -4,8 +4,6 @@ using OpenQA.Selenium.Chrome;
 using OpenQA.Selenium.Firefox;
 using OpenQA.Selenium.IE;
 using System;
-using evalbdd;
-using evalbdd.BaseClasses;
 
 namespace evalbdd
 {

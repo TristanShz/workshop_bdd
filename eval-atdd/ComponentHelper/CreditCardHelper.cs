@@ -1,6 +1,3 @@
-using System.Runtime.CompilerServices;
-using evalbdd;
-using evalbdd.ComponentHelper;
 using OpenQA.Selenium;
 
 namespace evalbdd.ComponentHelper;

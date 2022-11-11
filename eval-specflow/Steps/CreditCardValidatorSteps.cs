@@ -1,4 +1,3 @@
-using evalbdd;
 using evalbdd.ComponentHelper;
 using NUnit.Framework;
 using OpenQA.Selenium;
@@ -8,15 +7,6 @@ namespace evalbdd.Steps;
 [Binding]
 public sealed class CreditCardValidatorSteps
 {
-    // For additional details on SpecFlow step definitions see https://go.specflow.org/doc-stepdef
-
-    private readonly ScenarioContext _scenarioContext;
-
-    public CreditCardValidatorSteps(ScenarioContext scenarioContext)
-    {
-        _scenarioContext = scenarioContext;
-    }
-    
     [Given(@"user fills the three inputs with valid values")]
     public void GivenUserFillsTheThreeInputsWithValidValues()
     {

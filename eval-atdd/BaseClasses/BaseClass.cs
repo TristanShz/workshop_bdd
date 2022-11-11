@@ -1,5 +1,4 @@
-﻿using System;
-using evalbdd.Settings;
+﻿using evalbdd.Settings;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using OpenQA.Selenium;
 using OpenQA.Selenium.Chrome;

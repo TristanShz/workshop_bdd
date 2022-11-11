@@ -24,4 +24,8 @@
       <ProjectReference Include="..\eval-atdd\eval-atdd.csproj" />
     </ItemGroup>
 
+    <ItemGroup>
+      <Folder Include="Drivers" />
+    </ItemGroup>
+
 </Project>

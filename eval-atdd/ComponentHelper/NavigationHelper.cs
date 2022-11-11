@@ -1,5 +1,4 @@
-﻿using System;
-namespace evalbdd
+﻿namespace evalbdd
 {
     public static class NavigationHelper
     {

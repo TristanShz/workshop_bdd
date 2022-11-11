@@ -1,5 +1,4 @@
-﻿using System;
-namespace evalbdd.ComponentHelper
+﻿namespace evalbdd.ComponentHelper
 {
     public class PageHelper
     {
